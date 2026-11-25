@@ -38,13 +38,13 @@ It helps users identify skill gaps, understand job requirements, and receive per
 ## 📸 Application Screenshots
 
 ### Home Page
-![SkillSync Home Page](screenshots/home.png)
+![SkillSync Home Page](screenshots/home.png.png)
 
 ### Resume Analysis
-![Resume Analysis](screenshots/resume_analysis.png)
+![Resume Analysis](screenshots/resume_analysis.png.png)
 
 ### Job Matching
-![Job Matching](screenshots/job_matching.png)
+![Job Matching](screenshots/job_matching.png.png)
 ## 💻 Installation & Setup
 
 **1. Clone the repository**
