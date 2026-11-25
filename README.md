@@ -38,7 +38,7 @@ It helps users identify skill gaps, understand job requirements, and receive per
 ## 📸 Application Screenshots
 
 ### Home Page
-![SkillSync Home Page](screenshots/home.png.png)
+![SkillSync Home Page](screenshots/Home.png.png)
 
 ### Resume Analysis
 ![Resume Analysis](screenshots/resume_analysis.png.png)
